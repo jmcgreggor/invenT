@@ -1,0 +1,29 @@
+{
+  "name": "invenT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-es6-template-engine": "^2.1.9",
+    "pg-promise": "^8.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcgreggor/invenT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmcgreggor/invenT/issues"
+  },
+  "homepage": "https://github.com/jmcgreggor/invenT#readme"
+}
